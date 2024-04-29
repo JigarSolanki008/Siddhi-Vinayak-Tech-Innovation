@@ -7,7 +7,6 @@ Welcome to Siddhi Vinayak Tech Innovation! We are a leading provider of IT solut
 - **Web Development:** Crafting responsive and user-friendly websites and web applications.
 - **Mobile App Development:** Creating native and cross-platform mobile applications.
 - **UX/UI Design:** Designing intuitive interfaces for enhanced user experiences.
-- **Digital Marketing:** Enhancing online visibility, driving traffic, and increasing conversions.
 - **IT Consulting:** Providing expert advice on technology-related matters.
 - **Project Management:** Overseeing project planning, execution, and monitoring.
 
