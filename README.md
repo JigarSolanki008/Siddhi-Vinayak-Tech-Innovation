@@ -17,7 +17,7 @@ Welcome to Siddhi Vinayak Tech Innovation! We are a leading provider of IT solut
 - **Quality Assurance:** Our rigorous quality assurance processes ensure that our solutions meet the highest standards.
 
 ## Projects
-- **UX/UI Design:** ![UX-UI Food App Design](https://github.com/JigarSolanki008/UX-UI-Food-App-Design)
+- **UX/UI Design:**[https://github.com/JigarSolanki008/UX-UI-Food-App-Design]
 
 ## Get in Touch
 Explore our GitHub repositories and discover our projects. For inquiries or collaborations, feel free to contact us at [siddhivinayak.techinnovation@gmail.com](mailto:siddhivinayak.techinnovation@gmail.com).
