@@ -22,6 +22,6 @@ Explore our GitHub repositories and discover our projects. For inquiries or coll
 
 ---
 
-[Visit our website](https://www.jaybhavaniinfotech.com) | [Follow us on LinkedIn](https://www.linkedin.com/jigar008)
+[Visit our website](https://www.jaybhavaniinfotech.com) | [Follow us on LinkedIn](https://www.linkedin.com/in/jigar008)
 
 
