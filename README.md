@@ -1,10 +1,10 @@
 # Jay Bhavani Infotech
 
-Welcome to Jay Bhavani Infotech's GitHub repository! We are a leading provider of IT solutions, offering a wide range of services to meet your business needs.
+Welcome to Jay Bhavani Infotech! We are a leading provider of IT solutions, offering a wide range of services to meet your business needs.
 
 ## Services
-- **Web Development:** Crafting responsive and user-friendly websites and web applications.
 - **AI/ML:** Implementing advanced algorithms and models for data insights and task automation.
+- **Web Development:** Crafting responsive and user-friendly websites and web applications.
 - **Mobile App Development:** Creating native and cross-platform mobile applications.
 - **UX/UI Design:** Designing intuitive interfaces for enhanced user experiences.
 - **Digital Marketing:** Enhancing online visibility, driving traffic, and increasing conversions.
@@ -18,10 +18,10 @@ Welcome to Jay Bhavani Infotech's GitHub repository! We are a leading provider o
 - **Quality Assurance:** Our rigorous quality assurance processes ensure that our solutions meet the highest standards.
 
 ## Get in Touch
-Explore our GitHub repositories and discover our projects. For inquiries or collaborations, feel free to contact us at [contact@jaybhavaniinfotech.com](mailto:contact@jaybhavaniinfotech.com).
+Explore our GitHub repositories and discover our projects. For inquiries or collaborations, feel free to contact us at [jaybhavaniinfotech@yahoo.com](mailto:jaybhavaniinfotech@yahoo.com).
 
 ---
 
-[Visit our website](https://www.jaybhavaniinfotech.com) | [Follow us on LinkedIn](https://www.linkedin.com/company/jay-bhavani-infotech)
+[Visit our website](https://www.jaybhavaniinfotech.com) | [Follow us on LinkedIn](https://www.linkedin.com/jigar008)
 
 
