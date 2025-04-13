@@ -1,3 +1,10 @@
+<h1 align="center">🚀 Jigar Solanki – ERPNext Functional & Implementation Consultant | IT Project Coordinator</h1>
+
+<p align="center">
+  💼 Helping Businesses Streamline ERP | 💻 Driving Digital Transformation | 🛠️ UI/UX + Project Delivery Pro  
+</p>
+
+
 # 🚀 ERPNext Functional & Implementation Consultant | IT Project Coordinator
 
 Hello! I'm Jigar, a dynamic professional with a hybrid role as an ERPNext Functional + Implementation Consultant and IT Project Coordinator. I specialize in delivering streamlined ERP solutions that empower organizations to optimize operations and achieve scalable growth.
