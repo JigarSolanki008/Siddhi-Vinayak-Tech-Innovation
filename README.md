@@ -1,33 +1,67 @@
-<h1 align="center">🚀 Jigar Solanki – ERPNext Functional & Implementation Consultant | IT Project Coordinator</h1>
-
 <p align="center">
   💼 Helping Businesses Streamline ERP | 💻 Driving Digital Transformation | 🛠️ UI/UX + Project Delivery Pro  
 </p>
 
+# 👋 Hello, I'm Jigar!
 
-# 🚀 ERPNext Functional & Implementation Consultant | IT Project Coordinator
-
-Hello! I'm Jigar, a dynamic professional with a hybrid role as an ERPNext Functional + Implementation Consultant and IT Project Coordinator. I specialize in delivering streamlined ERP solutions that empower organizations to optimize operations and achieve scalable growth.
-
-## Services
-- **AI/ML:** Implementing advanced algorithms and models for data insights and task automation.
-- **Web Development:** Crafting responsive and user-friendly websites and web applications.
-- **Mobile App Development:** Creating native and cross-platform mobile applications.
-- **UX/UI Design:** Designing intuitive interfaces for enhanced user experiences.
-- **IT Consulting:** Providing expert advice on technology-related matters.
-- **Project Management:** Overseeing project planning, execution, and monitoring.
-
-## Qualifications
-- **Expertise:** Our team has extensive experience and expertise in the latest technologies.
-- **Client Satisfaction:** We prioritize client satisfaction and strive to deliver high-quality solutions.
-- **Innovation:** We are committed to innovation and continuously strive to improve our services.
-- **Quality Assurance:** Our rigorous quality assurance processes ensure that our solutions meet the highest standards.
-
-## Get in Touch
-Explore our GitHub repositories and discover our projects. For inquiries or collaborations, feel free to contact us at [siddhivinayak.techinnovation@gmail.com](mailto:siddhivinayak.techinnovation@gmail.com).
+🚀 *ERPNext Functional + Implementation Consultant & IT Project Coordinator*  
+Empowering businesses through digital transformation with robust ERP solutions, intuitive UI/UX design, and strategic project execution.
 
 ---
 
-[Visit our website](https://www.siddhivinayaktechinnovation.com) | [Follow us on LinkedIn](https://www.linkedin.com/in/jigar008)
+## 🧠 About Me
+
+I'm a dynamic tech enthusiast specializing in **ERPNext Implementation**, **Business Analysis**, and **IT Project Coordination**. I thrive on building scalable ERP solutions that simplify operations, enhance team collaboration, and drive digital excellence.
+
+---
+
+## 💼 Experience
+
+<details>
+  <summary><strong> ERP Functional Consultant | IT Project Coordinator </strong></summary>  
+  • Collaborate on ERPNext implementations, ensuring smooth project execution and system integration  
+  • Work closely with cross-functional teams to align project goals with client needs  
+  • Conduct UATs, refine requirements, and design intuitive user experiences using Figma  
+  • Lead the ERPNext configuration and customization for modules like Manufacturing, Inventory, CRM, Accounting, and Projects  
+  • Provide post-implementation support, resolve issues, and optimize system performance  
+  • Coordinate timelines, manage stakeholder communication, and oversee project milestones  
+  • Integrate ERPNext with third-party tools and ensure seamless data flow across systems  
+</details>
+
+---
+
+## 🎓 Education
+
+🏅 **M.Sc. in Information Technology** – GLS University (Bronze Medalist)  
+🎖️ **B.E. in Manufacturing Engineering** – GTU (Gold Medalist)  
+📜 **Design Thinking & Innovation** – Harvard Business School Online
+
+---
+
+## ⚙️ Skills & Tools
+
+### 💡 ERP & Business Modules  
+`ERPNext` • `Manufacturing` • `Inventory` • `CRM` • `Accounting` • `Support Desk` • `Buying` • `Selling` • `Projects`
+
+### 🎯 Project Management  
+`Agile` • `UAT` • `Stakeholder Management` • `Timeline Coordination` • `Training & Support`
+
+---
+
+## 📌 Highlights
+
+✅ In-depth ERPNext configuration & customization  
+✅ End-to-end implementation & business process mapping  
+✅ Cross-functional team collaboration & stakeholder engagement  
+✅ Hands-on UI/UX wireframing for ERP workflows  
+✅ Effective training & post-implementation support
+
+---
+
+## 📬 Let’s Connect
+
+📧 [Email Me](mailto:jigarsolanki1999@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/jigar008)  
+
 
 
