@@ -1,11 +1,11 @@
 title: Jigar Solanki
 logo: /assets/img/Jigar.png
 description: ERPNext Functional & Implementation Consultant | IT Project Coordinator
+theme: jekyll-theme-minimal
+show_downloads: false
 
 # Social profiles
 linkedin_username: https://www.linkedin.com/in/jigarsolanki008/
 github_username: https://github.com/jigarsolanki008
-email: your.jigarsolanki1999@gmail.com
+email: jigarsolanki1999@gmail.com
 
-plugins:
-  - jekyll-feed
