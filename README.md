@@ -1,8 +1,4 @@
-<p align="center">
-  💼 Helping Businesses Streamline ERP | 💻 Driving Digital Transformation | 🛠️ UI/UX + Project Delivery Pro  
-</p>
-
-# 👋 Hello, I'm Jigar!
+# 👋 Hello, I'm Jigar Solanki!
 
 🚀 *ERPNext Functional + Implementation Consultant & IT Project Coordinator*  
 Empowering businesses through digital transformation with robust ERP solutions, intuitive UI/UX design, and strategic project execution.
@@ -18,7 +14,7 @@ I'm a dynamic tech enthusiast specializing in **ERPNext Implementation**, **Busi
 ## 💼 Experience
 
 <details>
-  <summary><strong> ERP Functional Consultant | IT Project Coordinator </strong></summary>  
+  <summary><strong> ERP Functional & Implementation Consultant | IT Project Coordinator </strong></summary>  
   • Collaborate on ERPNext implementations, ensuring smooth project execution and system integration  
   • Work closely with cross-functional teams to align project goals with client needs  
   • Conduct UATs, refine requirements, and design intuitive user experiences using Figma  
@@ -41,10 +37,10 @@ I'm a dynamic tech enthusiast specializing in **ERPNext Implementation**, **Busi
 ## ⚙️ Skills & Tools
 
 ### 💡 ERP & Business Modules  
-`ERPNext` • `Manufacturing` • `Inventory` • `CRM` • `Accounting` • `Support Desk` • `Buying` • `Selling` • `Projects`
+`ERPNext` • `Manufacturing` • `Inventory/Stock` • `CRM` • `Accounting` • `Buying` • `Selling` • `Projects` • `Asset Management` • `Support/HelpDesk` • `Insights` • `LMS (Learning Management System)`
 
 ### 🎯 Project Management  
-`Agile` • `UAT` • `Stakeholder Management` • `Timeline Coordination` • `Training & Support`
+`Agile` • `UAT (User Acceptance Testing)` • `Stakeholder Management` • `Timeline Coordination` • `Training & Support` • `Risk Management` • `Budgeting and Cost Control` • `Resource Management` • `Quality Assurance` • `Communication & Collaboration` 
 
 ---
 
