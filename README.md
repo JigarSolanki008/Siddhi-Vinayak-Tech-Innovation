@@ -1,6 +1,6 @@
-# Siddhi Vinayak Tech Innovation
+# 🚀 ERPNext Functional & Implementation Consultant | IT Project Coordinator
 
-Welcome to Siddhi Vinayak Tech Innovation! We are a leading provider of IT solutions, offering a wide range of services to meet your business needs.
+Hello! I'm Jigar, a dynamic professional with a hybrid role as an ERPNext Functional + Implementation Consultant and IT Project Coordinator. I specialize in delivering streamlined ERP solutions that empower organizations to optimize operations and achieve scalable growth.
 
 ## Services
 - **AI/ML:** Implementing advanced algorithms and models for data insights and task automation.
@@ -15,10 +15,6 @@ Welcome to Siddhi Vinayak Tech Innovation! We are a leading provider of IT solut
 - **Client Satisfaction:** We prioritize client satisfaction and strive to deliver high-quality solutions.
 - **Innovation:** We are committed to innovation and continuously strive to improve our services.
 - **Quality Assurance:** Our rigorous quality assurance processes ensure that our solutions meet the highest standards.
-
-## Projects
-- **UX/UI Design:** [Grab & Grub Food Design App](https://github.com/JigarSolanki008/UX-UI-Food-App-Design)
-- **Web Development:** [Health-Plus in ReactJS](https://github.com/JigarSolanki008/Health-Plus-Website)
 
 ## Get in Touch
 Explore our GitHub repositories and discover our projects. For inquiries or collaborations, feel free to contact us at [siddhivinayak.techinnovation@gmail.com](mailto:siddhivinayak.techinnovation@gmail.com).
